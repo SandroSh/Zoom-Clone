@@ -30,3 +30,5 @@ A real-time video conferencing web application built with Next.js, TypeScript, a
 ```bash
 git clone https://github.com/SandroSh/Zoom-Clone.git
 cd Zoom-Clone
+npm install
+npm run dev
